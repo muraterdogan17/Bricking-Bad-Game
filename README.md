@@ -21,3 +21,10 @@ Berk Bingöl - [@berkbingol](https://github.com/BerkBingol)
 Oğuz Bayhun - [@obayhun](https://github.com/obayhun)
 
 Eren Ege Özol - [@eozol17](https://github.com/eozol17)
+
+Build mode
+
+https://user-images.githubusercontent.com/60621968/222832074-1fb79f24-1972-48f6-86ef-b960a33de268.mp4
+
+Play Mode
+
